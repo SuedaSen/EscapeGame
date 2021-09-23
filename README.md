@@ -1,4 +1,4 @@
-# Endless Runner 2D 🎮 🎮
+# 2D Escape Game 🎮 🎮
 
 ➡️   **Its made by using Unity and C#** <br/> 
 ➡️   **Also it includes background audio.🎶** <br/> 
